@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Kurtz
-- 🔭 I’m currently working on Wipe Development
+- 🔭 I’m currently working on Wyze Inc.
 - 🌱 I’m currently learning TypeScript
 
 <!--
