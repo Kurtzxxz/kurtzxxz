@@ -1,6 +1,8 @@
 ## Hi 👋, I'm Kurtz
 - 🔭 I’m currently working on Wyze Inc.
 - 🌱 I’m currently learning TypeScript
+- 🐍 Skills: Lua, Discord.JS
+- ⚡ Fun fact: I like spaghetti 🍝
 
 <!--
 **Kurtzxxz/kurtzxxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
